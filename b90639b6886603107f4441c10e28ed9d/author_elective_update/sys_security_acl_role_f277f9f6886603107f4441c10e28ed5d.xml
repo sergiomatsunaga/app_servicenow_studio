@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-10 17:34:34</sys_created_on>
+        <sys_id>f277f9f6886603107f4441c10e28ed5d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_cdltd_loaner_r_0_x_cdltd_loaner_request.x_cdltd_loaner_r_0.user</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">b90639b6886603107f4441c10e28ed9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b90639b6886603107f4441c10e28ed9d</sys_scope>
+        <sys_security_acl display_value="x_cdltd_loaner_r_0_x_cdltd_loaner_request">3677f9f6886603107f4441c10e28ed5b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f277f9f6886603107f4441c10e28ed5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-10 19:26:51</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_loaner_r_0.user" name="x_cdltd_loaner_r_0.user">ce0639b6886603107f4441c10e28edf1</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">b90639b6886603107f4441c10e28ed9d</application>
+        <file_path/>
+        <instance_id>0ec8c43a936a43505917bffd1dba101c</instance_id>
+        <instance_name>nowlearning-nlinst04507209-7k99t-0001</instance_name>
+        <name>sys_security_acl_role_f277f9f6886603107f4441c10e28ed5d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-10 17:34:34</sys_created_on><sys_id>f277f9f6886603107f4441c10e28ed5d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_cdltd_loaner_r_0_x_cdltd_loaner_request.x_cdltd_loaner_r_0.user</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">b90639b6886603107f4441c10e28ed9d</sys_package><sys_policy/><sys_scope display_value="Loaner Request">b90639b6886603107f4441c10e28ed9d</sys_scope><sys_security_acl display_value="x_cdltd_loaner_r_0_x_cdltd_loaner_request">3677f9f6886603107f4441c10e28ed5b</sys_security_acl><sys_update_name>sys_security_acl_role_f277f9f6886603107f4441c10e28ed5d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-10 19:26:51</sys_updated_on><sys_user_role display_value="x_cdltd_loaner_r_0.user" name="x_cdltd_loaner_r_0.user">ce0639b6886603107f4441c10e28edf1</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>477135638</payload_hash>
+        <record_name>x_cdltd_loaner_r_0_x_cdltd_loaner_request.x_cdltd_loaner_r_0.user</record_name>
+        <reverted_from/>
+        <source>6db3c67288a603107f4441c10e28edff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-10 19:26:51</sys_created_on>
+        <sys_id>2f21163e88a603107f4441c10e28edce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fed245f7d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-10 19:26:51</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>e721163e10a60310dc6fbe8acd9359ce</update_guid>
+        <update_guid_history>e721163e10a60310dc6fbe8acd9359ce:477135638,b677f9f6d86603102357c4c3021c8b5e:-1729165631</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_cdltd_loaner_r_0_x_cdltd_loaner_request.x_cdltd_loaner_r_0.user">9188c4b5743203107f44f53d5fb2c4bc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-19 17:11:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>8fb6d960f1644e41bad59e692cda0ec9</sys_id>
+        <sys_metadata>f277f9f6886603107f4441c10e28ed5d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_r_0_x_cdltd_loaner_request.x_cdltd_loaner_r_0.user</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">b90639b6886603107f4441c10e28ed9d</sys_package>
+        <sys_parent display_value="x_cdltd_loaner_r_0_x_cdltd_loaner_request">3677f9f6886603107f4441c10e28ed5b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b90639b6886603107f4441c10e28ed9d</sys_scope>
+        <sys_scope_delete display_value="">82f7f0d1979e43acb3fb52c824506510</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f277f9f6886603107f4441c10e28ed5d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f277f9f6886603107f4441c10e28ed5d">2f21163e88a603107f4441c10e28edce</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-19 17:11:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
